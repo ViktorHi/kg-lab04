@@ -6,18 +6,19 @@ Symple application provide opportunities to paint circle and lines by pixels
 * Brezenthem line
 * Brezenthem circle
 
-#Results:
-![]()
-![]()
-![]()
-![]()
+# Results:
+
+![](https://github.com/ViktorHi/kg-lab04/blob/master/img/step_by_step.png)
+![](https://github.com/ViktorHi/kg-lab04/blob/master/img/bresenthem.png)
+![](https://github.com/ViktorHi/kg-lab04/blob/master/img/cda.png)
+![](https://github.com/ViktorHi/kg-lab04/blob/master/img/bresenthem_circle.png)
 
 # Artifacts
 ### lab04.rar [link]()
 Artifact for windows user
 To run it you should unzip lab04.rar and open lab04.exe
 
-### lab04.jar [link]()
+### lab04.jar [link](https://github.com/ViktorHi/kg-lab04/tree/master/artifacts/artifacts/crossplatform)
 Crosplatform artifact to run this java 15 should be installed
 * You can use double click, if all java configurations installed successfully
 * Or *java -jar lab04.jar* from command line or terminal 
