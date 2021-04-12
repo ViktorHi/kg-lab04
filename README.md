@@ -8,10 +8,22 @@ Symple application provide opportunities to paint circle and lines by pixels
 
 # Results:
 
-![](https://github.com/ViktorHi/kg-lab04/blob/master/img/step_by_step.png)
-![](https://github.com/ViktorHi/kg-lab04/blob/master/img/bresenthem.png)
-![](https://github.com/ViktorHi/kg-lab04/blob/master/img/cda.png)
-![](https://github.com/ViktorHi/kg-lab04/blob/master/img/bresenthem_circle.png)
+
+| ![](https://github.com/ViktorHi/kg-lab04/blob/master/img/step_by_step.png)| 
+|:--:| 
+| *Step by step* |  
+
+| ![](https://github.com/ViktorHi/kg-lab04/blob/master/img/bresenthem.png) | 
+|:--:| 
+| *Brezenthem* |  
+
+| ![](https://github.com/ViktorHi/kg-lab04/blob/master/img/cda.png) | 
+|:--:| 
+| *CDA* |  
+
+| ![](https://github.com/ViktorHi/kg-lab04/blob/master/img/bresenthem_circle.png) | 
+|:--:| 
+| *Brezenthem circle* |  
 
 # Artifacts
 ### lab04.rar [link]()
